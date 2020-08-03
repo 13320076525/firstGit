@@ -15,6 +15,7 @@ public class Test {
 		
 		map.put("key1", "this is key1");
 		System.out.println(map.get("key1"));
+		System.out.println("这是我第一次用Git");
 		
 	}
 
