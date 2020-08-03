@@ -17,6 +17,7 @@ public class Test {
 		System.out.println(map.get("key1"));
 		System.out.println("这是我第一次用Git");
 		System.out.println("这是我第二次用Git");
+		System.out.println("我QQ");
 		
 	}
 
